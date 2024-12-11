@@ -1,4 +1,4 @@
-# Hola, soy [Ignacio Galmes] 👋
+# Hola, soy Ignacio Galmes 👋
 
 ## Perfil
 
