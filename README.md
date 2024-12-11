@@ -2,15 +2,14 @@
 
 ## Perfil
 
-Soy Analista Técnico en Sistemas. Con conocimientos en las áreas de soporte, redes y programación web. Mi experiencia abarca varios lenguajes y herramientas como JavaScript, Python, y React así como tambien nuevas herramientas para el desarrollo de aplicaciones que van desde no code a la robotización mediante el uso de apis y flujos integrados con UiPath. 
+Soy Analista Técnico en Sistemas. Con conocimientos en las áreas de soporte, redes y programación web. Tengo certificaciones en varios lenguajes como JavaScript, Python, y React. A diario me enfoco en conocer y aplicar herramientas SaaS que permitan integracion y robotización de flujos de trabajo y tareas sin código. Utilizo distintos programas como Make, builderbot.cloud, UiPath entre otros. 
 
 ### ¿Qué hago?
 
-- Trabajo como tecnico analista en una empresa de logistica, diseñe un sistema que permite desde la interoperatividad de una flota de más de 100 vehículos hasta la liquidacion de sueldos en AFIP/ARCA. Hago tareas de diseño, analista, soporte para bases operativas de la empresa en distintos puntos del país.
+- Trabajo en una empresa de logistica lider en su área de negocio, diseñe un sistema que permite desde la interoperatividad de una flota de más de 100 vehículos hasta la liquidacion de sueldos en AFIP/ARCA. Realizo tareas de diseño, analista y soporte para bases operativas de la empresa en distintos puntos del país.
 
 # Además:
-- Hago consultoría, integraciones Api's. Automatizacion de tareas.  
-- Me gusta explorar las novedades cómo la creacion y uso de bots con buenos ejemplos como UiPath o builderbot.cloud
+- Hago consultoría y programación de aplicaciones none code como Appsheet y Salesforce 
 - Tengo conocimientos en instalación de redes, seguridad informática con AD de Windows.
  
 
@@ -21,17 +20,20 @@ Soy Analista Técnico en Sistemas. Con conocimientos en las áreas de soporte, r
 
 ## Cursos
 
-### 1. Desarrollador Full Stack
+### 1. Desarrollador Full Stack Python
 *Codo a Codo, Gob de la Ciudad - 2021*
 
 ### 2. Certificación en React
 *Codo a Codo- 2022*
 
-### 3. Curso de Cisco Networking 
+### 3. Certificación en JavaScript
+*Codo a Codo- 2022*
+
+### 4. Curso de Cisco Networking 
 *Coursera - 2023*
 
-### 2. Certificación en JavaScript
-*Codo a Codo- 2023*
+### 5. Certificación en Salesforce
+*Salesforce- 2024*
 
 ---
 
