@@ -1,6 +1,7 @@
-# Hola, soy Ignacio Galmes 👋
+# Hola! soy Ignacio Galmes 👋
 
 ## Perfil
+![IMG_6938 2 ](https://github.com/user-attachments/assets/00d89d43-ade4-463a-b544-3190a97c1f7e)
 
 Soy Analista Técnico en Sistemas. Con conocimientos en las áreas de soporte, redes y programación web. Tengo certificaciones en varios lenguajes como JavaScript, Python, y React. A diario me enfoco en conocer y aplicar herramientas SaaS que permitan integracion y robotización de flujos de trabajo y tareas.
 
@@ -41,4 +42,5 @@ Soy Analista Técnico en Sistemas. Con conocimientos en las áreas de soporte, r
 ### Conéctate conmigo
 
 - [LinkedIn](https://www.linkedin.com/in/ignacio-galmes-99ba7b247/)
+![IMG_6938 2 ](https://github.com/user-attachments/assets/d48e16e0-f23c-437c-9d56-4eed96e3790d)
 
