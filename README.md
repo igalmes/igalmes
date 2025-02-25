@@ -42,5 +42,5 @@ Soy Analista Técnico en Sistemas. Con conocimientos en las áreas de soporte, r
 ### Conéctate conmigo
 
 - [LinkedIn](https://www.linkedin.com/in/ignacio-galmes-99ba7b247/)
-![IMG_6938 2 ](https://github.com/user-attachments/assets/d48e16e0-f23c-437c-9d56-4eed96e3790d)
+
 
