@@ -6,7 +6,7 @@ Me especialicé en Argentina y actualmente resido en Barcelona, España, desde e
 
 Contacto:
 
-Web: https://igalmes.netlify.app/ 
+Web: www.igalmes.com 
 Móvil: +34 602364570 
 Email: ignaciogalmes79@gmail.com 
 GitHub: @igaalmes 
